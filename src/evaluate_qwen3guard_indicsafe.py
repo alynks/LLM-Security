@@ -267,7 +267,6 @@ def main() -> int:
                 formatted_prompt = tokenizer.apply_chat_template(
                     messages,
                     tokenize=False,
-                    add_generation_prompt=True,
                 )
                 model_inputs = tokenizer(
                     [formatted_prompt],
