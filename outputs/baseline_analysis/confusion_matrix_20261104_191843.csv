@@ -1,0 +1,4 @@
+Expected,Safe,Unsafe,Controversial
+Safe,36,2,2
+Unsafe,4,24,12
+Controversial,12,4,4

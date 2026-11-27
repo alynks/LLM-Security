@@ -1,0 +1,201 @@
+seed,split,semantic_group,intent
+0,calibration,G23,Jailbreak with harmful request
+0,calibration,G21,Jailbreak with harmful request
+0,calibration,G06,Non-violent illegal act
+0,calibration,G08,Non-violent illegal act
+0,calibration,G07,Non-violent illegal act
+0,evaluation,G22,Jailbreak with harmful request
+0,evaluation,G09,Non-violent illegal act
+0,evaluation,G24,Jailbreak with harmful request
+0,evaluation,G10,Non-violent illegal act
+0,evaluation,G25,Jailbreak with harmful request
+1,calibration,G22,Jailbreak with harmful request
+1,calibration,G08,Non-violent illegal act
+1,calibration,G09,Non-violent illegal act
+1,calibration,G21,Jailbreak with harmful request
+1,calibration,G23,Jailbreak with harmful request
+1,evaluation,G07,Non-violent illegal act
+1,evaluation,G06,Non-violent illegal act
+1,evaluation,G10,Non-violent illegal act
+1,evaluation,G25,Jailbreak with harmful request
+1,evaluation,G24,Jailbreak with harmful request
+2,calibration,G21,Jailbreak with harmful request
+2,calibration,G07,Non-violent illegal act
+2,calibration,G08,Non-violent illegal act
+2,calibration,G24,Jailbreak with harmful request
+2,calibration,G09,Non-violent illegal act
+2,evaluation,G06,Non-violent illegal act
+2,evaluation,G10,Non-violent illegal act
+2,evaluation,G22,Jailbreak with harmful request
+2,evaluation,G25,Jailbreak with harmful request
+2,evaluation,G23,Jailbreak with harmful request
+3,calibration,G24,Jailbreak with harmful request
+3,calibration,G22,Jailbreak with harmful request
+3,calibration,G08,Non-violent illegal act
+3,calibration,G23,Jailbreak with harmful request
+3,calibration,G06,Non-violent illegal act
+3,evaluation,G07,Non-violent illegal act
+3,evaluation,G25,Jailbreak with harmful request
+3,evaluation,G10,Non-violent illegal act
+3,evaluation,G21,Jailbreak with harmful request
+3,evaluation,G09,Non-violent illegal act
+4,calibration,G06,Non-violent illegal act
+4,calibration,G23,Jailbreak with harmful request
+4,calibration,G09,Non-violent illegal act
+4,calibration,G10,Non-violent illegal act
+4,calibration,G25,Jailbreak with harmful request
+4,evaluation,G24,Jailbreak with harmful request
+4,evaluation,G22,Jailbreak with harmful request
+4,evaluation,G21,Jailbreak with harmful request
+4,evaluation,G08,Non-violent illegal act
+4,evaluation,G07,Non-violent illegal act
+5,calibration,G22,Jailbreak with harmful request
+5,calibration,G06,Non-violent illegal act
+5,calibration,G07,Non-violent illegal act
+5,calibration,G24,Jailbreak with harmful request
+5,calibration,G23,Jailbreak with harmful request
+5,evaluation,G10,Non-violent illegal act
+5,evaluation,G08,Non-violent illegal act
+5,evaluation,G25,Jailbreak with harmful request
+5,evaluation,G09,Non-violent illegal act
+5,evaluation,G21,Jailbreak with harmful request
+6,calibration,G08,Non-violent illegal act
+6,calibration,G22,Jailbreak with harmful request
+6,calibration,G23,Jailbreak with harmful request
+6,calibration,G07,Non-violent illegal act
+6,calibration,G09,Non-violent illegal act
+6,evaluation,G06,Non-violent illegal act
+6,evaluation,G25,Jailbreak with harmful request
+6,evaluation,G21,Jailbreak with harmful request
+6,evaluation,G10,Non-violent illegal act
+6,evaluation,G24,Jailbreak with harmful request
+7,calibration,G10,Non-violent illegal act
+7,calibration,G22,Jailbreak with harmful request
+7,calibration,G23,Jailbreak with harmful request
+7,calibration,G24,Jailbreak with harmful request
+7,calibration,G06,Non-violent illegal act
+7,evaluation,G08,Non-violent illegal act
+7,evaluation,G09,Non-violent illegal act
+7,evaluation,G07,Non-violent illegal act
+7,evaluation,G25,Jailbreak with harmful request
+7,evaluation,G21,Jailbreak with harmful request
+8,calibration,G09,Non-violent illegal act
+8,calibration,G25,Jailbreak with harmful request
+8,calibration,G06,Non-violent illegal act
+8,calibration,G10,Non-violent illegal act
+8,calibration,G23,Jailbreak with harmful request
+8,evaluation,G07,Non-violent illegal act
+8,evaluation,G21,Jailbreak with harmful request
+8,evaluation,G08,Non-violent illegal act
+8,evaluation,G24,Jailbreak with harmful request
+8,evaluation,G22,Jailbreak with harmful request
+9,calibration,G25,Jailbreak with harmful request
+9,calibration,G10,Non-violent illegal act
+9,calibration,G23,Jailbreak with harmful request
+9,calibration,G24,Jailbreak with harmful request
+9,calibration,G06,Non-violent illegal act
+9,evaluation,G07,Non-violent illegal act
+9,evaluation,G22,Jailbreak with harmful request
+9,evaluation,G09,Non-violent illegal act
+9,evaluation,G08,Non-violent illegal act
+9,evaluation,G21,Jailbreak with harmful request
+10,calibration,G22,Jailbreak with harmful request
+10,calibration,G23,Jailbreak with harmful request
+10,calibration,G07,Non-violent illegal act
+10,calibration,G09,Non-violent illegal act
+10,calibration,G08,Non-violent illegal act
+10,evaluation,G21,Jailbreak with harmful request
+10,evaluation,G25,Jailbreak with harmful request
+10,evaluation,G10,Non-violent illegal act
+10,evaluation,G24,Jailbreak with harmful request
+10,evaluation,G06,Non-violent illegal act
+11,calibration,G23,Jailbreak with harmful request
+11,calibration,G06,Non-violent illegal act
+11,calibration,G21,Jailbreak with harmful request
+11,calibration,G08,Non-violent illegal act
+11,calibration,G25,Jailbreak with harmful request
+11,evaluation,G22,Jailbreak with harmful request
+11,evaluation,G09,Non-violent illegal act
+11,evaluation,G10,Non-violent illegal act
+11,evaluation,G24,Jailbreak with harmful request
+11,evaluation,G07,Non-violent illegal act
+12,calibration,G23,Jailbreak with harmful request
+12,calibration,G25,Jailbreak with harmful request
+12,calibration,G10,Non-violent illegal act
+12,calibration,G06,Non-violent illegal act
+12,calibration,G07,Non-violent illegal act
+12,evaluation,G22,Jailbreak with harmful request
+12,evaluation,G08,Non-violent illegal act
+12,evaluation,G21,Jailbreak with harmful request
+12,evaluation,G09,Non-violent illegal act
+12,evaluation,G24,Jailbreak with harmful request
+13,calibration,G06,Non-violent illegal act
+13,calibration,G07,Non-violent illegal act
+13,calibration,G21,Jailbreak with harmful request
+13,calibration,G24,Jailbreak with harmful request
+13,calibration,G23,Jailbreak with harmful request
+13,evaluation,G25,Jailbreak with harmful request
+13,evaluation,G22,Jailbreak with harmful request
+13,evaluation,G09,Non-violent illegal act
+13,evaluation,G08,Non-violent illegal act
+13,evaluation,G10,Non-violent illegal act
+14,calibration,G24,Jailbreak with harmful request
+14,calibration,G22,Jailbreak with harmful request
+14,calibration,G09,Non-violent illegal act
+14,calibration,G08,Non-violent illegal act
+14,calibration,G10,Non-violent illegal act
+14,evaluation,G21,Jailbreak with harmful request
+14,evaluation,G25,Jailbreak with harmful request
+14,evaluation,G07,Non-violent illegal act
+14,evaluation,G06,Non-violent illegal act
+14,evaluation,G23,Jailbreak with harmful request
+15,calibration,G09,Non-violent illegal act
+15,calibration,G10,Non-violent illegal act
+15,calibration,G24,Jailbreak with harmful request
+15,calibration,G21,Jailbreak with harmful request
+15,calibration,G23,Jailbreak with harmful request
+15,evaluation,G06,Non-violent illegal act
+15,evaluation,G07,Non-violent illegal act
+15,evaluation,G25,Jailbreak with harmful request
+15,evaluation,G22,Jailbreak with harmful request
+15,evaluation,G08,Non-violent illegal act
+16,calibration,G21,Jailbreak with harmful request
+16,calibration,G07,Non-violent illegal act
+16,calibration,G23,Jailbreak with harmful request
+16,calibration,G06,Non-violent illegal act
+16,calibration,G10,Non-violent illegal act
+16,evaluation,G25,Jailbreak with harmful request
+16,evaluation,G24,Jailbreak with harmful request
+16,evaluation,G09,Non-violent illegal act
+16,evaluation,G22,Jailbreak with harmful request
+16,evaluation,G08,Non-violent illegal act
+17,calibration,G25,Jailbreak with harmful request
+17,calibration,G24,Jailbreak with harmful request
+17,calibration,G06,Non-violent illegal act
+17,calibration,G08,Non-violent illegal act
+17,calibration,G21,Jailbreak with harmful request
+17,evaluation,G07,Non-violent illegal act
+17,evaluation,G09,Non-violent illegal act
+17,evaluation,G23,Jailbreak with harmful request
+17,evaluation,G10,Non-violent illegal act
+17,evaluation,G22,Jailbreak with harmful request
+18,calibration,G25,Jailbreak with harmful request
+18,calibration,G09,Non-violent illegal act
+18,calibration,G08,Non-violent illegal act
+18,calibration,G24,Jailbreak with harmful request
+18,calibration,G10,Non-violent illegal act
+18,evaluation,G23,Jailbreak with harmful request
+18,evaluation,G07,Non-violent illegal act
+18,evaluation,G06,Non-violent illegal act
+18,evaluation,G21,Jailbreak with harmful request
+18,evaluation,G22,Jailbreak with harmful request
+19,calibration,G21,Jailbreak with harmful request
+19,calibration,G07,Non-violent illegal act
+19,calibration,G25,Jailbreak with harmful request
+19,calibration,G22,Jailbreak with harmful request
+19,calibration,G09,Non-violent illegal act
+19,evaluation,G24,Jailbreak with harmful request
+19,evaluation,G23,Jailbreak with harmful request
+19,evaluation,G08,Non-violent illegal act
+19,evaluation,G10,Non-violent illegal act
+19,evaluation,G06,Non-violent illegal act

@@ -1,0 +1,4 @@
+strategy,safe_discovery_rate_percent_mean,safe_discovery_rate_percent_std,discovery_recall_percent_mean,discovery_recall_percent_std,total_simulated_queries_mean,total_simulated_queries_std,mean_queries_per_group_mean,mean_queries_per_group_std,mean_queries_to_safe_when_found_mean,mean_queries_to_safe_when_found_std
+Adaptive-A,43.0,17.502,100.0,0.0,15.8,1.824,3.16,0.365,2.017,0.408
+Adaptive-B,43.0,17.502,100.0,0.0,15.8,1.824,3.16,0.365,2.017,0.408
+Fixed,43.0,17.502,100.0,0.0,17.05,1.877,3.41,0.375,2.6,0.742

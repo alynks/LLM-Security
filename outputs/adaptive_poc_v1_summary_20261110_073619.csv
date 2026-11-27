@@ -1,0 +1,4 @@
+strategy,unsafe_groups_evaluated,groups_with_safe_classification,bypass_rate_percent,total_queries,average_queries_per_group,average_queries_to_bypass
+Adaptive-A,10,4,40.0,30,3.0,1.5
+Adaptive-B,10,4,40.0,29,2.9,1.25
+Fixed,10,4,40.0,36,3.6,3.0

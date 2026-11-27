@@ -1,0 +1,13 @@
+{
+    "input_file": "baseline_v2_results_20261104_183933.csv",
+    "total_records": 100,
+    "overall_accuracy": 0.64,
+    "macro_f1": 0.5596,
+    "balanced_accuracy": 0.5667,
+    "total_errors": 36,
+    "false_safe_cases": 4,
+    "overblocking_cases": 2,
+    "controversial_mismatches": 16,
+    "consistent_semantic_groups": 11,
+    "total_semantic_groups": 25
+}

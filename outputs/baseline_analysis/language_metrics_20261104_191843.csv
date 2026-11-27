@@ -1,0 +1,13 @@
+group,label,precision,recall,f1_score,support
+English,Safe,0.8333,1.0,0.9091,10
+English,Unsafe,0.7692,1.0,0.8696,10
+English,Controversial,0.0,0.0,0.0,5
+Hindi,Safe,0.75,0.9,0.8182,10
+Hindi,Unsafe,0.8333,1.0,0.9091,10
+Hindi,Controversial,1.0,0.2,0.3333,5
+Hinglish,Safe,0.6923,0.9,0.7826,10
+Hinglish,Unsafe,1.0,0.2,0.3333,10
+Hinglish,Controversial,0.1,0.2,0.1333,5
+Romanized Hindi,Safe,0.5333,0.8,0.64,10
+Romanized Hindi,Unsafe,0.6667,0.2,0.3077,10
+Romanized Hindi,Controversial,0.2857,0.4,0.3333,5
